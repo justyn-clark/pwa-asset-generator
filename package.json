@@ -1,0 +1,10 @@
+{
+  "name": "pwa-asset-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "pwa-asset-generator": "bunx pwa-asset-generator logo.svg -i ./out/index.html -m ./out/manifest.json ./out"
+  },
+  "dependencies": {
+    "pwa-asset-generator": "^6.3.1"
+  }
+}
